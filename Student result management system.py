@@ -87,4 +87,4 @@ while True:
 
     else:
         print("Invalid choice!")
-        os.startfile(FILE_NAME)
+        
