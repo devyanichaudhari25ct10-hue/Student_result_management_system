@@ -5,7 +5,9 @@ FILE = "student_result.xlsx"
 
 
 def menu():
+    print("======================================")
     print("\n--- STUDENT RESULT MANAGEMENT SYSTEM ---")
+print("======================================")
     print("1. Get Result")
     print("2. View Previous Result")
     print("3. Exit")
