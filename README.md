@@ -38,3 +38,5 @@ Result: PASS
 Student result saved successfully in Excel.
 
 The student result is also stored in the Student Results Excel sheet for future use.
+[Watch full code explanation video]
+https://drive.google.com/file/d/16fY-9HPrf90KXPSeSi5-uMSkaQJB8NfU/view?usp=drivesdk
